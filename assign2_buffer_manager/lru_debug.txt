@@ -1,0 +1,11 @@
+[test_assign2_2.c-Testing LRU_K page replacement-L115-21:00:41] OK: expected <[0 0],[-1 0],[-1 0],[-1 0],[-1 0]> and was <[0 0],[-1 0],[-1 0],[-1 0],[-1 0]>: check pool content reading in pages
+[test_assign2_2.c-Testing LRU_K page replacement-L115-21:00:41] OK: expected <[0 0],[1 0],[-1 0],[-1 0],[-1 0]> and was <[0 0],[1 0],[-1 0],[-1 0],[-1 0]>: check pool content reading in pages
+[test_assign2_2.c-Testing LRU_K page replacement-L115-21:00:41] OK: expected <[0 0],[1 0],[2 0],[-1 0],[-1 0]> and was <[0 0],[1 0],[2 0],[-1 0],[-1 0]>: check pool content reading in pages
+[test_assign2_2.c-Testing LRU_K page replacement-L115-21:00:41] OK: expected <[0 0],[1 0],[2 0],[3 0],[-1 0]> and was <[0 0],[1 0],[2 0],[3 0],[-1 0]>: check pool content reading in pages
+[test_assign2_2.c-Testing LRU_K page replacement-L115-21:00:41] OK: expected <[0 0],[1 0],[2 0],[3 0],[4 0]> and was <[0 0],[1 0],[2 0],[3 0],[4 0]>: check pool content reading in pages
+[test_assign2_2.c-Testing LRU_K page replacement-L123-21:00:41] OK: expected <[0 0],[1 0],[2 0],[3 0],[4 0]> and was <[0 0],[1 0],[2 0],[3 0],[4 0]>: check pool content using pages
+[test_assign2_2.c-Testing LRU_K page replacement-L123-21:00:41] OK: expected <[0 0],[1 0],[2 0],[3 0],[4 0]> and was <[0 0],[1 0],[2 0],[3 0],[4 0]>: check pool content using pages
+[test_assign2_2.c-Testing LRU_K page replacement-L123-21:00:41] OK: expected <[0 0],[1 0],[2 0],[3 0],[4 0]> and was <[0 0],[1 0],[2 0],[3 0],[4 0]>: check pool content using pages
+[test_assign2_2.c-Testing LRU_K page replacement-L123-21:00:41] OK: expected <[0 0],[1 0],[2 0],[3 0],[4 0]> and was <[0 0],[1 0],[2 0],[3 0],[4 0]>: check pool content using pages
+[test_assign2_2.c-Testing LRU_K page replacement-L123-21:00:41] OK: expected <[0 0],[1 0],[2 0],[3 0],[4 0]> and was <[0 0],[1 0],[2 0],[3 0],[4 0]>: check pool content using pages
+[test_assign2_2.c-Testing LRU_K page replacement-L131-21:00:41] FAILED: expected <[0 0],[1 0],[2 0],[5 0],[4 0]> but was <[5 0],[1 0],[2 0],[3 0],[4 0]>: check pool content using pages
